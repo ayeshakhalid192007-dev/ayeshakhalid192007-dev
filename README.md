@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshakhalid192007-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshakhalid192007-dev" /> </p>
 <h3 align="left">ABOUT ME:</h3>
 <p>
-I'm Ayesha Khalid,from Pkistan with a strong interest in building autonomous AI agents 🤖.. I am committed to utilizing AI and development skills to make technology accessible and impactful.<br>
+I'm Ayesha Khalid,from Pakistan with a strong interest in building autonomous AI agents 🤖.. I am committed to utilizing AI and development skills to make technology accessible and impactful.<br>
 I'm currently working on strengthening my technical foundation while exploring artificial intelligence.I'm all about building intelligent agents that handle repetitive tasks & streamline business workflows 🤖💼. These agents interact with tools, browsers & APIs to get stuff done autonomously 🚀. My focus is on making automation awesome & businesses more efficient. By automating routine tasks, companies can boost productivity & focus on bigger goals 💡.<br>
   I am continuously learning and improving my skills by building practical projects and exploring new approaches in agentic AI 📚.
 </p>
