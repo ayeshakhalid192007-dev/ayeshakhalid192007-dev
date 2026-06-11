@@ -75,16 +75,15 @@
 ---
 
 ## 🚀 Featured Projects
+### 🤖 [Humanoid AI Studio](https://github.com/ayeshakhalid192007-dev/humanoid-ai-studio)
 
-### 🤖 [Humanoid-AI-Studio](https://github.com/ayeshakhalid192007-dev/humanoid-ai-studio)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ayeshakhalid192007-dev&repo=https://github.com/ayeshakhalid192007-dev/humanoid-ai-studio-1&theme=merko&hide_border=false)](https://github.com/ayeshakhalid192007-dev/humanoid-ai-studio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ayeshakhalid192007-dev&repo=humanoid-ai-studio&theme=merko&hide_border=false)](https://github.com/ayeshakhalid192007-dev/humanoid-ai-studio)
 
 **Tech Stack:** `Python` `Typescript` `FastAPI` `Powershell` `Framer Motion` `React` `Node.js`
 
-Humanoid AI Studio is a production-grade learning platform for Physical AI and Humanoid Robotics education. It delivers a 4-module interactive curriculum through a Docusaurus book, guided by an embedded RAG-powered chatbot that answers questions directly from the course content, with OAuth2 social login and AI-powered personalization.
+A production-grade learning platform for Physical AI and Humanoid Robotics — powered by a RAG chatbot and AI personalization.
 
-[🔗 View Project](https://github.com/ayeshakhalid192007-dev/humanoid-ai-studio) • [⭐ Star it](https://github.com/ayeshakhalid192007-dev/your-repo-1)
+[🔗 View Project](https://github.com/ayeshakhalid192007-dev/humanoid-ai-studio) • [⭐ Star it](https://github.com/ayeshakhalid192007-dev/humanoid-ai-studio)
 
 ---
 
