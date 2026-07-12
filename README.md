@@ -25,9 +25,7 @@
 
 I'm a CS student from Pakistan working at the intersection of **Agentic AI** and **real-world automation**. My focus has shifted from building one-off demos to shipping **production-ready systems**: platforms with real auth, real databases, real observability, and real users in mind.
 
-To get there consistently, I build using **loop engineering** tight, repeatable cycles of *spec → build → validate → refine* instead of one-shot coding. 
-* Every project starts with a clear spec (SDD-RI: Spec-Driven Development with Rapid Iteration), gets implemented in small verifiable loops, and is validated against real requirements before the next loop begins. 
-* This keeps AI-assisted development predictable instead of chaotic — I use Claude Code, custom agents, and MCP-powered tool ecosystems to run these loops end-to-end, from requirement to tested, deployable code.
+To get there consistently, I build using **loop engineering** — tight, repeatable cycles of *spec → build → validate → refine* instead of one-shot coding. Every project starts with a clear spec (SDD-RI: Spec-Driven Development with Rapid Iteration), gets implemented in small verifiable loops, and is validated against real requirements before the next loop begins. This keeps AI-assisted development predictable instead of chaotic — I use Claude Code, custom agents, and MCP-powered tool ecosystems to run these loops end-to-end, from requirement to tested, deployable code.
 
 - 🤖 Design **autonomous AI agents** that reason, plan, and act across tools and APIs
 - 🔁 Ship via **loop engineering** — iterative spec → build → validate → refine cycles, not one-shot code
@@ -61,19 +59,19 @@ To get there consistently, I build using **loop engineering** tight, repeatable 
 
 ## 💻 Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6A82FB,100:9B59B6&height=50&section=header&text=Languages&fontSize=22&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+<p align="center"><img src="https://img.shields.io/badge/📘_LANGUAGES-9B59B6?style=for-the-badge&labelColor=6A82FB" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,cpp&theme=dark" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:11998e,100:38ef7d&height=50&section=header&text=Frameworks&fontSize=22&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+<p align="center"><img src="https://img.shields.io/badge/🧩_FRAMEWORKS-38ef7d?style=for-the-badge&labelColor=11998e" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,express,react,nextjs,html,css&theme=dark" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F09819,100:EDDE5D&height=50&section=header&text=Libraries%20%26%20Tooling&fontSize=22&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+<p align="center"><img src="https://img.shields.io/badge/🛠️_LIBRARIES_%26_TOOLING-EDDE5D?style=for-the-badge&labelColor=F09819" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
@@ -84,7 +82,7 @@ To get there consistently, I build using **loop engineering** tight, repeatable 
   <img src="https://skillicons.dev/icons?i=git,github,nodejs,vscode&theme=dark" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:eb3349,100:f45c43&height=50&section=header&text=Databases%20%26%20Infra&fontSize=22&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+<p align="center"><img src="https://img.shields.io/badge/🗄️_DATABASES_%26_INFRA-f45c43?style=for-the-badge&labelColor=eb3349" /></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,redis,docker&theme=dark" />
@@ -92,13 +90,13 @@ To get there consistently, I build using **loop engineering** tight, repeatable 
   <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:667eea,100:764ba2&height=50&section=header&text=AI%20%26%20Agentic%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+<p align="center"><img src="https://img.shields.io/badge/🤖_AI_%26_AGENTIC_STACK-764ba2?style=for-the-badge&labelColor=667eea" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP_Server-FF6B6B?style=for-the-badge&logo=server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP_Server-FF6B6B?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
