@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Ayesha Khalid 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=550&lines=AI+Agent+Engineer;Agentic+AI+%7C+MCP+%7C+LLM+Orchestration;CS+Student+%26+Builder+from+Pakistan;Shipping+Production-Ready+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=680&lines=AI+Agent+Engineer;Agentic+AI+%7C+MCP+%7C+LLM+Orchestration;CS+Student+%26+Builder+from+Pakistan;Shipping+Production-Ready+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
